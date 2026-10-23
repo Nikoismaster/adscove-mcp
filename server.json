@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.adscove/adscove",
+  "title": "AdsCove",
+  "description": "Remote MCP for Shopify, Meta Ads, Google Ads and TikTok Ads with human approval for writes",
+  "version": "1.0.0",
+  "websiteUrl": "https://adscove.com",
+  "repository": {"url": "https://github.com/Nikoismaster/adscove-mcp", "source": "github"},
+  "remotes": [{"type": "streamable-http", "url": "https://adscove.com/api/mcp"}]
+}

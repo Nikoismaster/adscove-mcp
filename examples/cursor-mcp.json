@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "adscove": {
+      "url": "https://adscove.com/api/mcp"
+    }
+  }
+}
